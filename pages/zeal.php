@@ -269,7 +269,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
                                                                                  <!--events-->
                          <select multiple name="events[]">
                               <option value="" disabled selected>Choose Your Events</option>
-                              <option value="Casseopeian Wars">Casseopeian Wars</option>
+                              <option value="Technovision '16">Casseopeian Wars</option>
                               <option value="Compequizicon">Compequizicon</option>
                               <option value="Code-Ageddon">Code-Ageddon</option>
                               <option value="Ring Ring">Ring Ring</option>
